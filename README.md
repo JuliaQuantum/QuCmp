@@ -19,3 +19,8 @@ This project will help scientists to design better architecture of quantum compu
 **This package is still under developing, installation is not suggested.**
 
 # Usage
+
+# TODO
+
+- [ ] QuIDD based simulation
+- [ ] reload `show`s
